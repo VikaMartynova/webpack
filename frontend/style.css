@@ -1,0 +1,8 @@
+*{
+    background-color: powderblue;
+    text-transform: uppercase;
+}
+#image {
+    background: url("./1488399690.jpg");
+    background-repeat: no-repeat;
+}
